@@ -6,7 +6,9 @@
 <html>
 <body>
 	<%-- <a href="<c:url value='/logout' />">Click here to logout</a> --%>
-	<a href="admin">Click here to go to Admin Page</a>
+	<a href="admin">Click here to go to Admin Page</a><br>
+	<a href="user">Click here to go to User Page</a>
 	<h2>Hello World!</h2>
+	<a href="register">Click here to Register</a>
 </body>
 </html>

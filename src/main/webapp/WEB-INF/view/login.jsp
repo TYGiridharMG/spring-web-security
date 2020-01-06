@@ -21,7 +21,7 @@
 				</tr>
 				<tr>
 					<td>Remember Me:</td>
-					<td><input type="checkbox" name="remember"></td>
+					<td><input type="checkbox" name="remember" value="YES"></td>
 				</tr>
 				<tr>
 					<td colspan="2"><input name="submit" type="submit"
